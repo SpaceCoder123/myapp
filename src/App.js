@@ -1,4 +1,4 @@
-import { Hello } from './Components/Hell';
+import  Hello from './Components/Hello';
 
 function App() {
   return (
